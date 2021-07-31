@@ -1,0 +1,21 @@
+li{
+    padding-top: 8px;
+    list-style: none;
+}
+.taskheader{
+    
+    margin-top: 8px;
+    padding: 10px;
+    display: flex;
+}
+.inputcheck{
+    width: 30px;
+    height: 30px;
+}
+.tasksdiv{
+    margin-top: 10px;
+}
+.taskheader > label{
+    margin-left: 16px;
+    font-size: large;
+}
